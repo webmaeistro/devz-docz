@@ -1,0 +1,13 @@
+# [Standard Devz Processes](../README.md) / Documentation
+
+## Overview
+
+Documentation is an important part of any project -- software and
+infrastructure isn't especially useful if I cannot document how to
+use and operate it.
+
+## Contents
+
+* [Introduction to Documentation](./intro-to-docs.md)
+* [External Resources](./external-resources.md)
+* [Architectural Decision Records](./adr.md)
