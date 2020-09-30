@@ -9,7 +9,7 @@ response](../incident-response/README.md), and a number of other fields.
 ## Theory
 
 - [InfraSec Practice Charter](charter.md)
-- :lock: [InfraSec "Book" Club - Talk and Article Suggestions](https://docs.google.com/document/d/1X0GDtCMrPnl_Zdpo0qEtaxUW4SocxnZairCM9JQAcyo/edit)
+
 
 ## Practice
 
@@ -26,9 +26,7 @@ response](../incident-response/README.md), and a number of other fields.
 
 #### Security
 
-- [One-Time Passwords](tutorials/one-time-passwords.md) — How to set up one-time passwords for gitlab with 1Password.
-- [YubiKey Configuration Guide](tutorials/yubikey-configuration.md) — How to get and configure a YubiKey for use in commit signing.
-- [YubiKey SSO](tutorials/yubikey-sso.md) — How to configure a Google Account to use YubiKey (for GSuite admins).
+
 
 ### Other topics
 
