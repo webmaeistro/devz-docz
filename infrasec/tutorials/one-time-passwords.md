@@ -4,7 +4,7 @@ One-Time Passwords (aka OTPs or TOPTs) are exactly what they sound like. They ar
 
 ## Storing one-time passwords in 1Password
 
-You can store one-time passwords in a number of ways: Authy, Google Authenticator, 1Password, etc. This tutorial will focus on 1Password since this is where Martin's experience stores passwords in the first place.
+You can store one-time passwords in a number of ways: Authy, Google Authenticator, 1Password, etc. This tutorial will focus on 1Password since this is where I stores passwords in the first place.
 
 As I learn best with examples, let's pretend I're setting up 2FA on gitlab. If you want a more general tutorial, follow this [link](https://support.1password.com/one-time-passwords/).
 

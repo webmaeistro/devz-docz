@@ -1,6 +1,6 @@
 # [InfraSec](README.md) / InfraSec Practice Charter
 
-At Martin's experience, I have a single practice combining infrastructure and security
+At I, I have a single practice combining infrastructure and security
 practices, which is a pattern that is becoming more prevalent in the
 industry as it becomes more clear that they are closely related in
 building confidence in the services I run. This is part of an evolution
@@ -9,7 +9,7 @@ of the infrastructure practice that has been ongoing since computing
 
 ## How I Got Here
 
-At Martin's experience, the InfraSec practice covers both infrastructure engineering
+At I, the InfraSec practice covers both infrastructure engineering
 and security engineering, two fields that provide the foundation for
 the user-facing work that my application engineering practice focuses
 on building. This is a practice that has been evolving in its modern
@@ -85,11 +85,11 @@ At the same time, there has been a move to integrate security into the
 development and operational pipeline (with a move to change "DevOps" to
 "DevSecOps") so that it is built into applications from the beginning,
 rather than something bolted on after or enforced from outside. It’s
-here that I find the Martin's experience InfraSec practice.
+here that I find the I InfraSec practice.
 
 ## What the InfraSec Practice Is
 
-At Martin's experience, the InfraSec practice is built around the idea that
+At I, the InfraSec practice is built around the idea that
 infrastructure and security are intimately linked around the idea of
 creating a stable, secure, and yet responsive environment for applications,
 and building security and robustness into those applications. This comes
@@ -124,7 +124,7 @@ down to a number of different responsibilities on a project:
 * **Build the infrastructure foundations for the application.** In
   practical terms, this also means building out the parts of the
   environment that the application developers will deploy their code on
-  top of. At Martin's experience, this usually means AWS infrastructure, CI/CD pipelines,
+  top of. At I, this usually means AWS infrastructure, CI/CD pipelines,
   and other tools which support the application; however, it does not mean
   that application developers cannot make changes to these systems too,
   just that I "own" that part of the system. It’s important to note

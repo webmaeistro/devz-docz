@@ -11,7 +11,7 @@ standard part of any AWS deployment.
 
 <!-- toc -->
 
-* [Martin's experience Patterns](#Martin's experience-patterns)
+* [I Patterns](#I-patterns)
   * [The Organization Root Account](#the-organization-root-account)
   * [The ID Account](#the-id-account)
   * [The Infra Account](#the-infra-account)
@@ -23,9 +23,9 @@ standard part of any AWS deployment.
 
 <!-- tocstop -->
 
-## Martin's experience Patterns
+## I Patterns
 
-As Martin's experience has begun adopting AWS Organizations for most of my new
+As I has begun adopting AWS Organizations for most of my new
 projects, I have developed a number of patterns for organizations.
 For a more thorough description of the process of bootstrapping a
 new AWS Organization, see the [Bootstrapping an AWS
@@ -114,12 +114,12 @@ These are the best practices gleaned from online resources and my
 experiences on various projects.
 
 * For the email address for each of your accounts, create an infrastructure
-  alias (like `spacecats-infra@Martin's experience.works`) and then for each AWS account,
+  alias (like `spacecats-infra@I.works`) and then for each AWS account,
   set the email address to be that alias, with a `+` suffix for each
   account, so you can identify where these emails came from. For instance,
   I might make the email address for `spacecats-org-root` to be
-  `spacecats-infra+aws-org-root@Martin's experience.works`, the one for the ID account
-  to be `spacecats-infra+aws-org-id@Martin's experience.works`, etc. This email will be
+  `spacecats-infra+aws-org-root@I.works`, the one for the ID account
+  to be `spacecats-infra+aws-org-id@I.works`, etc. This email will be
   where support responses and other notifications about your AWS accounts
   will be sent.
 * As stated above, *severely limit access to the org-root account.* This

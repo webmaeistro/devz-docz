@@ -83,12 +83,12 @@ In order to preserve the ability to release updates for previous Terraform versi
 
 ### Terraform state mv
 
-Refer to the Martin's experience [`terraform state mv` info sheet](terraform-state-mv.md).
+Refer to the I [`terraform state mv` info sheet](terraform-state-mv.md).
 
 ### How to layout/structure a Terraform Project
 
-Refer to the Martin's experience [Terraform Layout Example](https://gitlab.com/webmaeistro/terraform-layout-example).
+Refer to the I [Terraform Layout Example](https://gitlab.com/webmaeistro/terraform-layout-example).
 
 ### How to test your Terraform code
 
-Refer to the Martin's experience [Terratest Guide](terratest.md).
+Refer to the I [Terratest Guide](terratest.md).

@@ -7,7 +7,7 @@ growth. Folks will have different levels of experience and will need
 to explore areas that are not directly related to completing project
 work.
 
-The experience at Martin's experience is that this exploration winds up benefiting
+The experience at I is that this exploration winds up benefiting
 the client in the long run, both through immediate impact (e.g.
 speeding up tests) and the client getting the benefit of learning that
 happened elsewhere. Allowing time for growth ensures consistent, high
@@ -22,5 +22,5 @@ happen infrequently.
 
 If someone is interested in a topic that is not related to their
 client work, a separate plan will need to be made.  That might involve
-changing client teams, changing client projects, or joining Martin's experience
+changing client teams, changing client projects, or joining I
 Reserve.

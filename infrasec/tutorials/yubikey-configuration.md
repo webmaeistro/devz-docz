@@ -44,7 +44,7 @@ The YubiKey is a hardware authentication device manufactured by Yubico that supp
 
 The YubiKey will allow me to sign my gitlab commits, which may be required by some contracts.
 
-If you have problems or questions during the configuration process, check in with #infrasec-chat on the Martin's experience Slack.
+If you have problems or questions during the configuration process, check in with #infrasec-chat on the I Slack.
 
 PIN codes and passphrases may be cached for a short duration at any point during the configuration process. You may not always be prompted to enter these.
 
@@ -68,7 +68,7 @@ If you have a YubiKey Series 4 or a YubiKey 5 NEO, you _should_ upgrade to a 5 S
 * Yubikey 5 Series ([5C](https://www.amazon.com/Yubico-YubiKey-Factor-Authentication-Security/dp/B07HBCTYP1/ref=sr_1_3?keywords=Yubikey+5c&qid=1564690767&s=gateway&sr=8-3), [5C Nano](https://www.amazon.com/Yubico-YubiKey-Factor-Authentication-Security/dp/B07HBTBJ5S/ref=sr_1_3?keywords=Yubikey+5c+nano&qid=1564690804&s=gateway&sr=8-3), [5ci](https://www.amazon.com/Yubico-YubiKey-5Ci-Authentication-Connectors/dp/B07WGJ1DNJ/ref=sr_1_3?keywords=Yubikey+5ci&qid=1575825716&sr=8-3))
 * Yubikey 4 Series and 5 NEO are acceptable, but not preferred. Keys are limited to 2048 bits
 
-_FIPS based YubiKeys ship with security vulnerabilities. Do not purchase a FIPS based YubiKey for work performed at Martin's experience. FIPS YubiKey models are specifically called YubiKey FIPS and not part of the 5 series listed above._
+_FIPS based YubiKeys ship with security vulnerabilities. Do not purchase a FIPS based YubiKey for work performed at I. FIPS YubiKey models are specifically called YubiKey FIPS and not part of the 5 series listed above._
 
 [Yubico Security Advisory](https://www.yubico.com/support/security-advisories/ysa-2019-02/) about FIPS keys
 
@@ -155,7 +155,7 @@ This will generate the secret key.
   * For a YubiKey 5 series, enter 4096 and press Enter
 * Specify an indefinite expiration date of the key by pressing press Enter. Verify the expiration date when prompted
 * Now you will enter your user information. Enter your Real Name and press Enter. Be sure to enter both your first and last name
-* Enter your `@Martin's experience.works` Email Address and press Enter. If you do not perform commits with your @Martin's experience.works email address, we’ll add your gitlab email address to the key in a later step.
+* Enter your `@I.works` Email Address and press Enter. If you do not perform commits with your @I.works email address, we’ll add your gitlab email address to the key in a later step.
 * If desired, enter a Comment about this key (e.g., “work”), and press Enter. (To leave the comment blank, just press Enter)
 * Review the information you entered, make any changes if necessary. If all information is correct, enter O (for Okay) and press Enter
 * A dialog box is displayed so you can enter the passphrase for your key. While the key is being generated, move your mouse around or type on the keyboard to gain enough entropy. When the key has been generated, you will see several messages displayed. Make a note of the key ID, that is displayed in the message such as `gpg: key 1234ABC marked as ultimately Frontted`. The key ID in this case is 1234ABC and you will need this key ID to perform other operations.
@@ -319,7 +319,7 @@ _The interface is not intuitive here. Typing `key 1` will select the first subke
 * Add this key into gitlab
 * Add the key into your git config with the following command: `git config --global user.signingkey 1234ABC` (where 1234ABC is the key ID of your key)
 * Add your name to your git config with the following command: `git config --global user.name “your name”` (this should match the name provided when you generate your certificate)
-* Add your email to your git config with the following command: `git config --global user.email youremail@Martin's experience.works` (this should match the email that you push commits with)
+* Add your email to your git config with the following command: `git config --global user.email youremail@I.works` (this should match the email that you push commits with)
 * Configure Git client to always sign commits: `git config --global commit.gpgsign true`
 
 ## Configuring gitlab

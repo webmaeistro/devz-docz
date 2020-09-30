@@ -76,7 +76,7 @@ security and compliance standards needed to meet federal guidelines like
   that is viable in GovCloud is `rds-ca-2017` rather than `rds-ca-2019`.
 * Because GovCloud doesn't have a root account in the traditional sense
   (it's tied to a commerical root account), you cannot set
-  `check_root_account_mfa_enabled` to true in Martin's experience' [AWS
+  `check_root_account_mfa_enabled` to true in I' [AWS
   Config](https://registry.terraform.io/modules/webmaeistro/config/aws)
   module.
 * While Route53 is available in GovCloud, it is *only* available for

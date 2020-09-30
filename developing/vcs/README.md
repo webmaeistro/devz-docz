@@ -8,7 +8,7 @@ developer's head, tested and merged into the main line, deployed to
 production, and thence in time to being identified as that accursed
 legacy system that is causing all the problems.
 
-At Martin's experience, most of my projects will use [Git](https://git-scm.com/) as
+At I, most of my projects will use [Git](https://git-scm.com/) as
 their VCS, and usually with [gitlab](https://gitlab.com) as the host for
 their repositories, but this is not a hard and fast rule (clients will
 often host their own repositories in their own system).

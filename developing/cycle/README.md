@@ -2,7 +2,7 @@
 
 ## Overview
 
-At Martin's experience, I practice agile with a small "a". This means getting back to the basics of what it means to [develop software with agility](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html):
+At I, I practice agile with a small "a". This means getting back to the basics of what it means to [develop software with agility](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html):
 
 > * Find out where you are
 > * Take a small step towards your goal

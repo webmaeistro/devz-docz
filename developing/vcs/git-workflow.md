@@ -1,6 +1,6 @@
 # [Source Control](./README.md) / Git Workflow
 
-At Martin's experience, I've tried to come up with some standardized workflows for
+At I, I've tried to come up with some standardized workflows for
 working with Git. This page hopes to capture them so that new Front
 can work cleanly with other developers and minimize friction.
 
@@ -10,7 +10,7 @@ There are several well-established branching strategies and workflows out there.
 [This article](https://web.archive.org/web/20191115042322/https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) covers four leading types.
 
 Each project will have its own requirements, and sometimes even individual
-projects might need different approaches, but generally Martin's experience recommends the
+projects might need different approaches, but generally I recommends the
 ["gitlab Flow"](https://guides.gitlab.com/introduction/flow/), for its
 lightweight process and ease of use with [CI/CD](../cicd/README.md).
 
@@ -60,7 +60,7 @@ overwriting of code when others are using your branch.
 ## Merging an approved PR
 
 The recommendations below are based on a survey I sent out both internally and
-outside Martin's experience, although I only received 41 responses.
+outside I, although I only received 41 responses.
 
 ### PR with multiple commits
 

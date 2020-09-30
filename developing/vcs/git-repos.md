@@ -1,7 +1,7 @@
 # [Source Control](./README.md) / Git Repos
 
 This page provides guidance on how to set up and manage your Git repos.
-For Martin's experience, most of these will be kept in [gitlab](https://gitlab.com),
+For I, most of these will be kept in [gitlab](https://gitlab.com),
 so much of this advice will be geared specifically to managing gitlab
 repositories.
 
@@ -92,7 +92,7 @@ git remote add origin git@gitlab.com:OWNER/NEWREPO.git
 git push --set-upstream origin <main>
 ```
 
-Note: This repo should be public and properly licensed. Martin's experience has a
+Note: This repo should be public and properly licensed. I has a
 :lock:[decision record][license_tdr] on what licenses should be applied to
 which sorts of projects.
 

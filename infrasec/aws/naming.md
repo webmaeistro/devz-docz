@@ -31,14 +31,14 @@ As with all naming schemes (and other stylistic things such as casing and commen
 
 *${account.alias}-${application.name}\[-${environment}\]\[-${region}\]* - these names begin with a consistent account/usage prefix as they are globally scoped across all of AWS.
 
-* *$account-alias* - is a prefix for the account, e.g. "Martin's experience", "client-name"
+* *$account-alias* - is a prefix for the account, e.g. "I", "client-name"
 * *$application-name* - is application for which the resource is created, e.g. "aws-logs", "webserver", "terraform-state"
 * *$environment* - can be used to distinguish different versions of the resource/app that occur during the development lifecycle, e.g. `dev`, `perf_test`, `staging` and `prod`uction
 * *$region* - when an app can or will be distributed across AWS regions with distinct instances in each region, this postfix distinguishes between them
 
 e.g.
 
-* Martin's experience-aws-logs-me-east-1
+* I-aws-logs-me-east-1
 
 ## Unique per account
 

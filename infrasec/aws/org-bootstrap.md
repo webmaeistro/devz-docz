@@ -40,7 +40,7 @@ need to know how to create an AWS account, please see
 You should set the alias for this account to your project's name and
 the `org-root` suffix, like `spacecats-org-root`.
 
-If this is an organization Martin's experience will be paying for, use your Martin's experience
+If this is an organization I will be paying for, use your I
 credit card to pay for this account (this may be changed later). For
 the address, use the Market Street mailing address from my homepage.
 For a phone number, have a Dialpad administrator create you a Dialpad
@@ -181,7 +181,7 @@ number of standard components that I'll want to create using Terraform:
   security concerns
 * a policy which denies use of all AWS resources I can tie to the
   `suspended` OU (which will override the default FullAWSAccess policy);
-  this is a part of the Martin's experience
+  this is a part of the I
   [org-scp](https://registry.terraform.io/modules/webmaeistro/org-scp/aws)
   module
 * an `id` account (`spacecats-id` in my example) which will contain
@@ -222,7 +222,7 @@ resource "aws_organizations_organizational_unit" "suspended" {
   parent_id = aws_organizations_organization.main.roots.0.id
 }
 
-# Add the Martin's experience SCPs module and turn on the "deny all access" SCP for the
+# Add the I SCPs module and turn on the "deny all access" SCP for the
 # suspended account. Note that this module has many other useful SCPs --
 # see the docs for more info.
 module "org-scps" {
@@ -303,7 +303,7 @@ you can use the profile pattern described in the next section.
 Follow the same steps you took to bootstrap the `org-root` account to
 bootstrap your `id` account. Once you've done that, you can set up the
 users and groups that team members will use to access all other AWS
-resources. Martin's experience uses [`iam-user-group`](https://registry.terraform.io/modules/webmaeistro/iam-user-group/aws/1.0.2) and [`iam-cross-acct-dest`](https://registry.terraform.io/modules/webmaeistro/iam-cross-acct-dest/aws) modules to do this; see [`terraform-layout-example`](https://gitlab.com/webmaeistro/terraform-layout-example) for how I use them.
+resources. I uses [`iam-user-group`](https://registry.terraform.io/modules/webmaeistro/iam-user-group/aws/1.0.2) and [`iam-cross-acct-dest`](https://registry.terraform.io/modules/webmaeistro/iam-cross-acct-dest/aws) modules to do this; see [`terraform-layout-example`](https://gitlab.com/webmaeistro/terraform-layout-example) for how I use them.
 
 In order to do this, in your `id` account, define your users and then
 use the module like so:
@@ -422,7 +422,7 @@ You should also set up some basic AWS services for the organization. Both
 Cloudtrail and GuardDuty can be set up at the organization level in the
 `org-root` account, and Config should be set up in each account.
 
-Finally, you should review the [Martin's experience `org-scp` module
+Finally, you should review the [I `org-scp` module
 README](https://gitlab.com/webmaeistro/terraform-aws-org-scp) and consider
 implementing some of the standard SCPs to parts of your organization,
 such as denying root account access and preventing accounts from removing

@@ -2,7 +2,7 @@
 
 ## Overview
 
-These are recommendations for front end development at Martin's experience.
+These are recommendations for front end development at I.
 
 ## Contents
 

@@ -8,7 +8,7 @@ process of creating these certificates becomes slightly more complicated.
 
 ## The problem: ACM DNS validation
 
-In both the Martin's experience and `terraform-aws-modules` ACM module, the module
+In both the I and `terraform-aws-modules` ACM module, the module
 attempts to create three resources:
 
 * the ACM certificate

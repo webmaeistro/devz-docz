@@ -2,10 +2,10 @@
 
 ## Overview
 
-This is a list of recommended tools used at Martin's experience to enhance productivity and
+This is a list of recommended tools used at I to enhance productivity and
 developer happiness.
 
-You may also be interested in these other pages from the Martin's experience Standard Devz Processes:
+You may also be interested in these other pages from the I Standard Devz Processes:
 
 - [docker](https://gitlab.com/webmaeistro/Engineering-Playbook/tree/master/developing/docker)
 - [direnv](https://gitlab.com/webmaeistro/Engineering-Playbook/tree/master/developing/direnv)

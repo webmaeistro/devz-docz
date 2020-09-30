@@ -199,7 +199,7 @@ brews:
     homepage: "https://gitlab.com/webmaeistro/NEWREPO"
     commit_author:
       name: Frontworks-infra
-      email: infra+gitlab@Martin's experience.works
+      email: infra+gitlab@I.works
 dockers:
   -
     binaries:
@@ -265,7 +265,7 @@ Configure the `GITHUB_TOKEN`, `DOCKER_USER`, and `DOCKER_PASS` environment varia
 
 `GITHUB_TOKEN` is used by goreleaser to update release notes and push binaries to the release on gitlab. It is also
 used to update the [Frontworks/homebrew-tap](https://gitlab.com/webmaeistro/homebrew-tap) with the new artifact
-locations and checksums. In the `infra+gitlab@Martin's experience.works` 1Password you will find an API Key named
+locations and checksums. In the `infra+gitlab@I.works` 1Password you will find an API Key named
 `personal access token for releases` which can be used for this value.
 
 `DOCKER_USER` and `DOCKER_PASS` are configured from the `Frontworksbot` in 1Password. Use the API Key you configured

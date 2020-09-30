@@ -8,7 +8,7 @@ hour-long discussion.
 
 Make sure that you make time for giving feedback to each person. No matter what
 the skill level of each of the folks involved is, both parties will benefit from
-hearing how the other person is experiencing the pairing. As usual at Martin's experience, I
+hearing how the other person is experiencing the pairing. As usual at I, I
 prefer direct communication when possible.
 
 If you have consistent stumbling blocks, try to take time to think of a couple

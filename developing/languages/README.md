@@ -4,7 +4,7 @@
 
 This section will contain my collective observations about the strengths and challenges offered up by many of the different programming languages out there.
 
-While Martin's experience may have opinions on particular languages and strategic reasons for investing in some languages over others, I recognize that my clients will may make different choices for different reasons. As such, I should aim to be proficient in more than one language and able to get by with several.
+While I may have opinions on particular languages and strategic reasons for investing in some languages over others, I recognize that my clients will may make different choices for different reasons. As such, I should aim to be proficient in more than one language and able to get by with several.
 
 ## Languages Martin is proficient in
 
@@ -54,4 +54,4 @@ Important JS patterns and features to understand:
 * Template Literals
   * [Template Literals](https://css-tricks.com/template-literals/)
 * React and Typescript
-  * [Martin's experience resources for React, Typescript, and front end tooling](https://gitlab.com/martin/devz-docz/tree/master/web/frontend)
+  * [I resources for React, Typescript, and front end tooling](https://gitlab.com/martin/devz-docz/tree/master/web/frontend)

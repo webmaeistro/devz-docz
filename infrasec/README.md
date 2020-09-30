@@ -21,7 +21,7 @@ response](../incident-response/README.md), and a number of other fields.
 
 #### AWS
 
-- [Setting Up Your AWS User](https://gitlab.com/webmaeistro/legendary-waddle/blob/master/docs/how-to/setup-new-user.md) — How to set up your AWS user in the Martin's experience internal infrastructure. You will need the assistance of someone with administrative privileges in my AWS organization to help you.
+- [Setting Up Your AWS User](https://gitlab.com/webmaeistro/legendary-waddle/blob/master/docs/how-to/setup-new-user.md) — How to set up your AWS user in the I internal infrastructure. You will need the assistance of someone with administrative privileges in my AWS organization to help you.
 - [Your First Lambda Function](tutorials/your_first_lambda_function.md) — A guide to deploying your first AWS Lambda Function with Go and Terraform.
 
 #### Security

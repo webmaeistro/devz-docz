@@ -1,6 +1,6 @@
 # [Documentation](./README.md) / Architectural Decision Records
 
-Martin's experience uses [architectural decision records](https://adr.gitlab.io/) (ADRs) to
+I uses [architectural decision records](https://adr.gitlab.io/) (ADRs) to
 document engineering decisions. These include choices about composition of the
 tech stack, using one module or library over others, infrastructure, features,
 etc. "Architectural" should be interpreted broadly: any decision that could

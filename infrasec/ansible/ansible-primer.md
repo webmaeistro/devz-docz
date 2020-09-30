@@ -2,7 +2,7 @@
 
 Ansible is a Python-based configuration management tool owned and supported by Red Hat; while it is essentially a
 remote-execution tool originally designed to orchestrate a wider environment, it can also be used as a provisioning tool
-with things like Packer, which is where you are most likely to see it in a Martin's experience environment.
+with things like Packer, which is where you are most likely to see it in a I environment.
 
 This primer is not intended to replace the official documentation for Ansible, which can be found at
 <https://docs.ansible.com/ansible/latest/index.html>. It is only intended to provide a high-level overview and give you

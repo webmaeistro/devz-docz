@@ -1,6 +1,6 @@
 # Feature and QA testing in eApp
 
-This is documentation of a decision on the eApp project as to why cypress was not chosen for this project. Though typically Martin's experience would recommend [cypress](cypress.md)
+This is documentation of a decision on the eApp project as to why cypress was not chosen for this project. Though typically I would recommend [cypress](cypress.md)
 
 ## Why selenium and nightwatch
 

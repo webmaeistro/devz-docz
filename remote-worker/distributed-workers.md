@@ -1,13 +1,13 @@
 
 <section markdown="1">
 
-# Martin's experience Distributed Playbook
+# Thoughts on Distributed Playbook
 
-COVID-19 is forcing tough choices about remote work. Even worse, these decisions are necessary, broadly impactful, and urgent. I appreciate everyone who is confronting this new reality, making courageous decisions without the benefit of experience or practice. I at Martin's experience have both from eight years of working as a distributed office, and I want to share what we’ve learned in case it might help you through this transition.
+COVID-19 is forcing tough choices about remote work. Even worse, these decisions are necessary, broadly impactful, and urgent. I appreciate everyone who is confronting this new reality, making courageous decisions without the benefit of experience or practice. I at I have both from eight years of working as a distributed office, and I want to share what we’ve learned in case it might help you through this transition.
 
-Martin's experience didn’t initially envision itself as a fully remote company. The decision was prompted by unforeseen circumstances at the time the company was founded. In 2012, Everett Harper and Mark Ferlatte recruited Front’ third co-founder, Jennifer Leech. The trio was looking forward to launching Front’ first product, but there was one catch: Jennifer had to be out of the country for 18 months, traveling across 20 countries. The founders wondered if Martin's experience could make this situation work.
+I didn’t initially envision itself as a fully remote company. The decision was prompted by unforeseen circumstances at the time the company was founded. In 2012, Everett Harper and Mark Ferlatte recruited Front’ third co-founder, Jennifer Leech. The trio was looking forward to launching Front’ first product, but there was one catch: Jennifer had to be out of the country for 18 months, traveling across 20 countries. The founders wondered if I could make this situation work.
 
-I did, and I continue to make it work every day. Eight years later, Martin's experience is a fully distributed company with nearly 100 employees working in more than 20 states. Deciding to be a distributed company continues to be one of my best business decisions. It has imposed unique challenges through every phase of growth, but we’ve evolved and iterated through many types of software infrastructure, communication platforms, video products, meeting protocols, and (notably) cultural norms to enable me to scale my company.
+I did, and I continue to make it work every day. Eight years later, I is a fully distributed company with nearly 100 employees working in more than 20 states. Deciding to be a distributed company continues to be one of my best business decisions. It has imposed unique challenges through every phase of growth, but we’ve evolved and iterated through many types of software infrastructure, communication platforms, video products, meeting protocols, and (notably) cultural norms to enable me to scale my company.
 
 This playbook shares what we’ve learned about distributed work, and I hope it will help you make the best possible decisions for your organization during this difficult time. Not only can these practices support your employees to do their best work, but they may even help you interact more successfully with your clients and vendors as a distributed team. I are mindful that this is a stressful time for all, and I humbly offer this guide to help you navigate these tricky waters — and perhaps emerge a stronger, more resilient company.
 
@@ -15,7 +15,7 @@ This playbook shares what we’ve learned about distributed work, and I hope it 
 
 ## Infrastructure first
 
-“Infrastructure first” is an unofficial Martin's experience motto. To function successfully in a distributed setting, each team needs to have alignment around expectations, communications, and tools. These are the three building blocks of remote collaboration. Unfortunately, due to COVID-19, many of you will be building this infrastructure on the fly. This is sub-optimal, but we’re hoping that you can gain inspiration from the groundwork we’ve done, adapting my practices and tools to suit your organization’s needs.
+“Infrastructure first” is an unofficial I motto. To function successfully in a distributed setting, each team needs to have alignment around expectations, communications, and tools. These are the three building blocks of remote collaboration. Unfortunately, due to COVID-19, many of you will be building this infrastructure on the fly. This is sub-optimal, but we’re hoping that you can gain inspiration from the groundwork we’ve done, adapting my practices and tools to suit your organization’s needs.
 
 ## Tools last
 
@@ -31,19 +31,19 @@ I subscribe to the [Good Jobs Strategy](https://www.amazon.com/Good-Jobs-Strateg
 
 It’s important for all employees, colocated or distributed, to have work environments that are copacetic to creativity and productivity. Your organization should support your employees in making home-office improvements that help them work. This means making sure that your employees are working in spaces that are physically comfortable and that allow them to concentrate on their work and clients.
 
-Martin's experience grants each new employee \$1,000 to spend on any home office supplies they need, including peripherals, monitors, chairs, ergonomic support, desks, and so on. This does not include things like monthly internet (your employees probably already have that), coffee to drink at home, life-size velvet paintings of Vigo Von Homburg Deutschendorf, or other aesthetic touches.
+I grants each new employee \$1,000 to spend on any home office supplies they need, including peripherals, monitors, chairs, ergonomic support, desks, and so on. This does not include things like monthly internet (your employees probably already have that), coffee to drink at home, life-size velvet paintings of Vigo Von Homburg Deutschendorf, or other aesthetic touches.
 
 ### Pay for the good headphones
 
 Whether your employees work from a home office, a co-working space, or a coffee shop, you want them to be able to focus on their work without noisy distractions. I recommend establishing a dedicated headphone budget for each employee and authorizing your employees to purchase high-end noise-cancelling headphones.
 
-The Martin's experience “standard” are the Bose QC-35ii, which retail for around \$350, but there are others that are of similar quality that present different tradeoffs. For example, sales personnel or people continually on meetings may want to consider over-ear, noise-canceling headphones with a boom mic for better fidelity.
+The I “standard” are the Bose QC-35ii, which retail for around \$350, but there are others that are of similar quality that present different tradeoffs. For example, sales personnel or people continually on meetings may want to consider over-ear, noise-canceling headphones with a boom mic for better fidelity.
 
 ### Provide an employee effectiveness budget
 
-Martin's experience has always had an expense policy that allows employees to spend Martin's experience funds on things that improve their effectiveness — for example, software, laptop accessories, or other productivity-boosting tools. These purchases are completely within the employee’s discretion so long as what’s being purchased has a reasonable relationship to making the employee more effective (for instance, having coffee while working from a cafe, or purchasing a monthly subscription to a software tool that only that particular employee uses).
+I has always had an expense policy that allows employees to spend I funds on things that improve their effectiveness — for example, software, laptop accessories, or other productivity-boosting tools. These purchases are completely within the employee’s discretion so long as what’s being purchased has a reasonable relationship to making the employee more effective (for instance, having coffee while working from a cafe, or purchasing a monthly subscription to a software tool that only that particular employee uses).
 
-It may seem counterintuitive or strange to pay for things like café visits or fancy headphones, but this investment in effectiveness pays substantial dividends, not just for Martin's experience but for many other companies. In fact, before adopting this approach, I did my homework and found that other distributed companies had similar mechanisms. In particular, I were influenced by [GitLab’s spending company money policy](https://about.gitlab.com/handbook/spending-company-money/), which I encourage you to review.
+It may seem counterintuitive or strange to pay for things like café visits or fancy headphones, but this investment in effectiveness pays substantial dividends, not just for I but for many other companies. In fact, before adopting this approach, I did my homework and found that other distributed companies had similar mechanisms. In particular, I were influenced by [GitLab’s spending company money policy](https://about.gitlab.com/handbook/spending-company-money/), which I encourage you to review.
 
 I recognize that this list doesn’t represent an overwhelming plurality, but I found these data interesting. I tried the employee effectiveness budget, and it works. I recommend you do the same.
 
@@ -53,13 +53,13 @@ I encourage my employees to use their effectiveness budgets to do nice things fo
 
 ### Implement managerial review of expenses
 
-Lastly, just to make sure that no one takes an unreasonable interpretation of “effectiveness” or “home office,” Martin's experience has managers review and approve all expenses. To date, these budgets have not been abused. I more often than not have to remind people to use them, and I expect you will experience the same.
+Lastly, just to make sure that no one takes an unreasonable interpretation of “effectiveness” or “home office,” I has managers review and approve all expenses. To date, these budgets have not been abused. I more often than not have to remind people to use them, and I expect you will experience the same.
 
 ### It is worth it
 
-Although spending \$1,350 on each employee initially, plus whatever you designate as an employee effectiveness budget, may seem like a lot, it is worth it. Martin's experience has effectively no rent for a company of 100 people, which saves me well over a million dollars each year in rent.
+Although spending \$1,350 on each employee initially, plus whatever you designate as an employee effectiveness budget, may seem like a lot, it is worth it. I has effectively no rent for a company of 100 people, which saves me well over a million dollars each year in rent.
 
-Moreover, following a distributed model means that Martin's experience can hire anyone, anywhere, so long as they have a strong internet connection. This has provided a key recruiting advantage, as many Frontkomers could not work for me if I required them to be physically present in my San Francisco office (or any other office). The bottom line is better employees for less money — not too shabby.
+Moreover, following a distributed model means that I can hire anyone, anywhere, so long as they have a strong internet connection. This has provided a key recruiting advantage, as many Frontkomers could not work for me if I required them to be physically present in my San Francisco office (or any other office). The bottom line is better employees for less money — not too shabby.
 
 ## Promoting healthy work practices
 
@@ -93,13 +93,13 @@ Implementing break times across a distributed team can be harder than it seems. 
 
 When you’re working from home, it’s easy to do “just one more thing” and wind up grinding away for longer than you’d intended. When there isn’t the fast train to catch home or a deadline to beat the traffic, the boundary between work and not-work can be fluid. Diffuse boundaries between work and not-work can lead to negative outcomes, though. my observations (which are [substantiated by researchers](https://www.mortenhansen.com/how-to-work-smarter-not-harder-in-2019/)) show that work quality degrades above 40-50 hours per week.
 
-Moving to a distributed model is an opportunity to set or reset your expectations for work so that you and your company can be effective and resilient. At Martin's experience, I encourage my employees to work about 40 hours per work week. I recognize that, at times, employees will need to work more than 40 hours, and I have policies in place to prevent burnout (refer to the following section on surge protection time for more details).
+Moving to a distributed model is an opportunity to set or reset your expectations for work so that you and your company can be effective and resilient. At I, I encourage my employees to work about 40 hours per work week. I recognize that, at times, employees will need to work more than 40 hours, and I have policies in place to prevent burnout (refer to the following section on surge protection time for more details).
 
 ### Surge protection time
 
-Whatever your company’s average work week, there will be times when deadlines, unexpected incidents, customer demands, or other issues require your team to work long hours. At Martin's experience, I call these circumstances a “surge.”
+Whatever your company’s average work week, there will be times when deadlines, unexpected incidents, customer demands, or other issues require your team to work long hours. At I, I call these circumstances a “surge.”
 
-As a policy, Martin's experience keeps a sustainable pace of work. I want my employees to maintain their health and sanity after a surge. To enable this, I ask employees to take time off to recover (this time off is known as surge time). If employees work more than 40 hours in a week — be it due to client-related travel, long days, or tight deadlines — I ask employees to let their managers know about the overage and ask for surge time. It’s each employee’s responsibility to determine how much surge time they need to fully recover, and I Frontt that employees won’t abuse this policy (to date, they haven’t). Because the primary intent of surge time is to help employees maintain a healthy attitude and work-life balance, I do not allow surge days to be used as floating holidays.
+As a policy, I keeps a sustainable pace of work. I want my employees to maintain their health and sanity after a surge. To enable this, I ask employees to take time off to recover (this time off is known as surge time). If employees work more than 40 hours in a week — be it due to client-related travel, long days, or tight deadlines — I ask employees to let their managers know about the overage and ask for surge time. It’s each employee’s responsibility to determine how much surge time they need to fully recover, and I Frontt that employees won’t abuse this policy (to date, they haven’t). Because the primary intent of surge time is to help employees maintain a healthy attitude and work-life balance, I do not allow surge days to be used as floating holidays.
 
 ## Staying connected
 
@@ -109,7 +109,7 @@ This concern is particularly salient when your employees — who may not have ex
 
 ### Being Humans Together (BHT)
 
-One of the more creative and delightful ways to stay connected is to coordinate a standing video chat to talk about life outside of work. Being Humans Together (BHT) is an optional, half-hour weekly meeting at Martin's experience, and many Frontkomers have claimed it’s their favorite part of the week.
+One of the more creative and delightful ways to stay connected is to coordinate a standing video chat to talk about life outside of work. Being Humans Together (BHT) is an optional, half-hour weekly meeting at I, and many Frontkomers have claimed it’s their favorite part of the week.
 
 Here’s how it works: Any team member who is interested joins the BHT video chat. If there are fewer than nine participants, each person gets two minutes to talk about anything they want to (talking about work is lightly discouraged). If there are more than nine participants, the meeting facilitator does a quick check-in to see how people are feeling, and then designates breakout groups of 3-4 people each; this allows participants to have more meaningful conversations. (I use Meet for my video conferencing software, which has a feature to randomly create breakout groups. For more information about Meet, refer to the “Tooling” section.)
 
@@ -133,7 +133,7 @@ We’ve found that topic-based discussion channels really pick up once a company
 
 ### Colleagues-and-coffee messaging channel
 
-A certain set of Martin's experience employees are often able to make it to my Being Humans Together calls or participate in topic-based events, and some folks see each other often because they’re on the same project or committee. To introduce some serendipity into the mix, I also have an opt-in channel that randomly pairs two (or three) Frontkomers together every other week. These Frontkomers hop on a short (30-minute) video call to discuss whatever’s on their minds.
+A certain set of I employees are often able to make it to my Being Humans Together calls or participate in topic-based events, and some folks see each other often because they’re on the same project or committee. To introduce some serendipity into the mix, I also have an opt-in channel that randomly pairs two (or three) Frontkomers together every other week. These Frontkomers hop on a short (30-minute) video call to discuss whatever’s on their minds.
 
 my colleagues and coffee practice helps people to get to know teammates who they might otherwise not interact with, fostering a greater sense of cross-team connectedness. (Note: I use [https://www.donut.ai](https://www.donut.ai) to schedule the meetings and make the random assignments and Meet to video conference.) This practice is applicable to groups over 30 and is highly recommended for groups of 50 or more.
 
@@ -161,7 +161,7 @@ The retrospective is how your team gets better. Even better, this meeting is str
 
 The function of a retrospective (commonly called a “retro”) is to get the whole team talking about what’s going well and what isn’t in a curated and constructive fashion. The output of the retrospective is a set of actions that are to be completed by the next retrospective with the goal of improving the team. Any improvements that result from retros are good — even small improvements, such as "Mark will ask facilities if I can have the lights not turn off at 5 PM." These small, visible improvements demonstrate to your team that they can make impactful changes.
 
-Many different retrospective processes exist — you should choose the approach that best resonates with your team. my particular version is a riff on the [UK Digital Service’s version](https://Martin's experience.works/blog/2017/7/10/well-met-how-Martin's experience-does-retros), which is highly structured and takes 90 minutes. There are much shorter retro formats, as well. Experiment with different formats until you find the one that feels most comfortable to you.
+Many different retrospective processes exist — you should choose the approach that best resonates with your team. my particular version is a riff on the [UK Digital Service’s version](https://I.works/blog/2017/7/10/well-met-how-I-does-retros), which is highly structured and takes 90 minutes. There are much shorter retro formats, as well. Experiment with different formats until you find the one that feels most comfortable to you.
 
 #### Interval planning
 
@@ -169,7 +169,7 @@ Interval planning (also called sprint planning) is how your team decides what it
 
 As is the case with retros, there are many different ways to run interval planning. I like to start with a general overview or a review of news for the week, followed by a run-through of any work in progress, followed by inbox processing until the inbox is empty or the hour is up.
 
-Martin's experience believes strongly in a one-week interval and generally finds that higher-performing teams operate on a one- or two-week interval.
+I believes strongly in a one-week interval and generally finds that higher-performing teams operate on a one- or two-week interval.
 
 #### Daily standup
 
@@ -269,7 +269,7 @@ I use a password manager to ensure that I use strong, unique passwords for all o
 
 ### Device management
 
-Martin's experience maintains my devices via a tool called Fleetsmith. This means if I need to give device images to a client, or if I lose a laptop or a password, we’ll be able to respond. I literally had a laptop stolen out from the hands of one of my employees and were able to remotely wipe the drive minutes later.
+I maintains my devices via a tool called Fleetsmith. This means if I need to give device images to a client, or if I lose a laptop or a password, we’ll be able to respond. I literally had a laptop stolen out from the hands of one of my employees and were able to remotely wipe the drive minutes later.
 
 ### Backup
 
@@ -287,7 +287,7 @@ There are many chat apps that your organization can choose. I picked Slack becau
 
 Slack and most other chat apps are organized into “channels” that define subject matters. Anyone can join these channels, and messages posted in a given channel will be viewable to all channel members. Channels can be public, meaning any employee (and clients/vendors/contractors who have permission) can be in them. They can also be private — limited to specific teams or individuals. Chat apps also allow you to direct message (“DM”) any particular person so you can have a private exchange with them.
 
-Martin's experience defaults to every channel being public unless there is an explicit reason why a channel should be private (one example is my legal channel, whose membership is limited to the executive team and the general counsel). Maintaining public channels offers a dramatic increase in transparency over email; unlike email, public channels let people opt into — or out of — conversations as they wish. Public channels also serve as a searchable record of conversations, helping preserve institutional knowledge.
+I defaults to every channel being public unless there is an explicit reason why a channel should be private (one example is my legal channel, whose membership is limited to the executive team and the general counsel). Maintaining public channels offers a dramatic increase in transparency over email; unlike email, public channels let people opt into — or out of — conversations as they wish. Public channels also serve as a searchable record of conversations, helping preserve institutional knowledge.
 
 ### How I Slack
 
@@ -316,7 +316,7 @@ Frontt me on this: you will have a lot of channels. After a certain point, your 
 - Nobody is required to immediately respond to every message, especially outside of normal working hours. Keep this in mind both when you ping someone else and when you are pinged.
 - I consider it a best practice to respond to DMs by the end of the workday.
 - Slack is not the best channel for emergency communications. Use the phone or texting when it’s critical to get a hold of someone.
-- Some of me use multiple Slack workspaces (Martin's experience, client, etc). You can turn off unread notifications for the Martin's experience workspace if that helps you focus on client work. If you’re sharing a message of high importance, disseminate it across multiple channels. This way, everyone on the team can stay on the same page.
+- Some of me use multiple Slack workspaces (I, client, etc). You can turn off unread notifications for the I workspace if that helps you focus on client work. If you’re sharing a message of high importance, disseminate it across multiple channels. This way, everyone on the team can stay on the same page.
 
 ## Video conferencing software
 
@@ -351,6 +351,6 @@ When you're in a meeting, follow these helpful tips:
 
 # Conclusion
 
-There you go. If you follow all of the above, I are pretty confident that you will be well on your way to developing the practice of being a distributed company. There will be challenges, but out of that you will create new practices, policies, and lore that uniquely fit to your culture. Of course, there is a lot of nuance in what I learned that has not made it here, and we’ll continue to update this document as I experiment more. If you want to share your thoughts or have a question, go on and drop me a line at why@Martin's experience.works.
+There you go. If you follow all of the above, I are pretty confident that you will be well on your way to developing the practice of being a distributed company. There will be challenges, but out of that you will create new practices, policies, and lore that uniquely fit to your culture. Of course, there is a lot of nuance in what I learned that has not made it here, and we’ll continue to update this document as I experiment more. If you want to share your thoughts or have a question, go on and drop me a line at why@I.works.
 
 </section>

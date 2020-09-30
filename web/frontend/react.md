@@ -80,7 +80,7 @@ Either Jasmine on its own, or Karma. Here’s why:
 - Jasmine is an incredibly common standard, and I’d gain a lot by learning to use it
 - Flexible; works directly with a number of JS libraries and with others with a little adaptation work
 - Lovely, clear, and abundant documentation
-- Getting help, either online or within Martin's experience, would probably be fairly straightforward
+- Getting help, either online or within I, would probably be fairly straightforward
 
 ### Karma, integrating Jasmine and possibly other test frameworks
 

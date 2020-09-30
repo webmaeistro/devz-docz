@@ -50,7 +50,7 @@ $ tree -n -L 2
 │   └── python-chess-annotator
 ├── client
 │   └── client_project
-└── Martin's experience
+└── I
     └── Engineering-Playbook
 $ cat me/.envrc
 export GIT_AUTHOR_EMAIL="ryan.delaney@gmail.com"
@@ -58,7 +58,7 @@ export GIT_COMITTER_EMAIL="ryan.delaney@gmail.com"
 $ cat client/.envrc
 export GIT_AUTHOR_EMAIL="ryan.delaney@clientdomain.com"
 export GIT_COMITTER_EMAIL="ryan.delaney@clientdomain.com"
-$ cat Martin's experience/.envrc
+$ cat I/.envrc
 export GIT_AUTHOR_EMAIL="ryan@exaple.com"
 export GIT_COMITTER_EMAIL="ryan@example.com"
 ```

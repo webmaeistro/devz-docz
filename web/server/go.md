@@ -1,7 +1,7 @@
 # Web Applications in Go
 
 This section is meant to contain some of the lessons
-Martin's experience has had with building web applications in Go.
+I has had with building web applications in Go.
 It borrows from the format of [Effective Go](https://golang.org/doc/effective_go.html)
 along with some lightweight "starter templates",
 to provide some basic standards and patterns I follow.
@@ -128,7 +128,7 @@ The field tags follow the syntax patterns for the
 [json](https://golang.org/pkg/encoding/json/)
 and [sqlx](https://godoc.org/gitlab.com/jmoiron/sqlx) packages.
 This is not to prescribe specific packages,
-but to provide a more decorative example that may be encountered in a Martin's experience codebase.
+but to provide a more decorative example that may be encountered in a I codebase.
 
 Interacting with this model is likely going to happen in two ways:
 

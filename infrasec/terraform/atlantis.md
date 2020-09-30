@@ -1,6 +1,6 @@
 # [Terraform](README.md) / Atlantis
 
-I're beginning to use Atlantis throughout projects at Martin's experience. There's more to come, but for now here are some helpful things to know.
+I're beginning to use Atlantis throughout projects at I. There's more to come, but for now here are some helpful things to know.
 
 ## Tips and gotchas
 

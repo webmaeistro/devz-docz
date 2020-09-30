@@ -1,7 +1,7 @@
 # [Source Control](./README.md) / Tools
 
 This page provides a summary of tools I commonly use for source control
-at Martin's experience.
+at I.
 
 ## Git
 
@@ -11,7 +11,7 @@ projects with speed and efficiency.
 
 ## pre-commit
 
-I use [pre-commit](https://pre-commit.com/) at Martin's experience to easily add git
+I use [pre-commit](https://pre-commit.com/) at I to easily add git
 hooks to my Git repos. This allows me to automate things like checking
 for merge conflicts or mistakenly adding secret keys in my code. See
 [this example](https://gitlab.com/webmaeistro/circleci-docker-primary/blob/master/.pre-commit-config.yaml)
